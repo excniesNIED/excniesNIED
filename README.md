@@ -17,9 +17,17 @@ You can also call me excnies.
 
 ![Static Badge](https://img.shields.io/badge/HUAWEI-P60-HarmonyOS?style=for-the-badge&color=%23007DFE&logo=huawei)
 ![Static Badge](https://img.shields.io/badge/HUAWEI-Matepad_10.4_2020-HarmonyOS?style=for-the-badge&color=%23007DFE&logo=huawei)
+![Static Badge](https://img.shields.io/badge/Xiaomi-MIX2s-FlymeOS?style=for-the-badge&color=%23FF6900&logo=xiaomi)
 ![Static Badge](https://img.shields.io/badge/ASUS-TUF_Gaming_F15-Windows?style=for-the-badge&color=%230DE4CD&logo=asus)
-![Static Badge](https://img.shields.io/badge/Xiaomi-MIX2s-FlymeOS?style=for-the-badge&color=%23007DFE&logo=xiaomi)
 ![HarmonyOS Badge](https://img.shields.io/badge/HarmonyOS-000?logo=harmonyos&logoColor=fff&style=for-the-badge)
+![Manjaro Badge](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=fff&style=plastic)
+![Windows11](https://img.shields.io/badge/Windows%2011-0079D5?style=for-the-badge&logo=windows&logoColor=%230079D)
+![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=plastic)
+![deepin Badge](https://img.shields.io/badge/deepin-007CFF?logo=deepin&logoColor=fff&style=plastic)
+![KDE Badge](https://img.shields.io/badge/KDE-1D99F3?logo=kde&logoColor=fff&style=plastic)
+![GNOME Badge](https://img.shields.io/badge/GNOME-4A86CF?logo=gnome&logoColor=fff&style=plastic)
+
+
 
 ---
 
