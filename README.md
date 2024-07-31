@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=5E5E5E&width=435&lines=Hi+there%2C+I'm+Churnie+HXCN)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=33&pause=1000&color=5E5E5E&width=435&lines=Hi+there%2C+I'm+Churnie+HXCN)](https://git.io/typing-svg)
 
 You can also call me excnies.
 
