@@ -14,9 +14,9 @@ You can also call me excnies.
 
 ---
 
-![Static Badge](https://img.shields.io/badge/HUAWEI-P60-HarmonyOS?style=for-the-badge&color=%23007DFE)
-![Static Badge](https://img.shields.io/badge/HUAWEI-Matepad_10.4_2020-HarmonyOS?style=for-the-badge&color=%23007DFE)
-![Static Badge](https://img.shields.io/badge/ASUS-TUF_Gaming_F15-Windows?style=for-the-badge&color=%230DE4CD)
+![Static Badge](https://img.shields.io/badge/HUAWEI-P60-HarmonyOS?style=for-the-badge&color=%23007DFE&logo=huawei)
+![Static Badge](https://img.shields.io/badge/HUAWEI-Matepad_10.4_2020-HarmonyOS?style=for-the-badge&color=%23007DFE&logo=huawei)
+![Static Badge](https://img.shields.io/badge/ASUS-TUF_Gaming_F15-Windows?style=for-the-badge&color=%230DE4CD&logo=asus)
 
 
 
