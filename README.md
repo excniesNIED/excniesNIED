@@ -4,7 +4,7 @@ You can also call me excnies.
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fhxcn.qcea.top&up_message=hxcn.qcea.top&up_color=%2368BDDF&down_message=Home%20Page&down_color=%2358E2D8&style=for-the-badge&label=Home%20Page)](https://hxcn.qcea.top)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fhx-cn.top&up_message=hx-cn.top&up_color=%2358E2D8&down_message=Blog&down_color=%2358E2D8&style=for-the-badge&label=Blog)](https://hx-cn.top)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fhxcn.qcea.top&up_message=hxcn%40nieds.top&style=social&label=email)](https://enotes.hx-cn.top)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fenotes.hx-cn.top&up_message=enotes.hx-cn.top&up_color=%2314C3F3&down_message=Notes&down_color=%2358E2D8&style=for-the-badge&label=Notes)](https://enotes.hx-cn.top)
 
 ## Social&Contact
 
