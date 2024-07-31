@@ -45,7 +45,11 @@ You can also call me excnies.
 
 ---
 
+![excniesNIED's Stats](https://github-readme-stats.vercel.app/api?username=excniesNIED&theme=vue&show_icons=true&hide_border=true&count_private=true)
 
+![excniesNIED's Streak](https://github-readme-streak-stats.herokuapp.com/?user=excniesNIED&theme=vue&hide_border=true)
+
+![excniesNIED's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=excniesNIED&theme=vue&show_icons=true&hide_border=true&layout=compact)
 
 
 <!--
