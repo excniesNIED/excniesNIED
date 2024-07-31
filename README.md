@@ -18,6 +18,10 @@ You can also call me excnies.
 ![Static Badge](https://img.shields.io/badge/HUAWEI-P60-HarmonyOS?style=for-the-badge&color=%23007DFE&logo=huawei)
 ![Static Badge](https://img.shields.io/badge/HUAWEI-Matepad_10.4_2020-HarmonyOS?style=for-the-badge&color=%23007DFE&logo=huawei)
 ![Static Badge](https://img.shields.io/badge/ASUS-TUF_Gaming_F15-Windows?style=for-the-badge&color=%230DE4CD&logo=asus)
+![Static Badge](https://img.shields.io/badge/Xiaomi-MIX2s-FlymeOS?style=for-the-badge&color=%23007DFE&logo=xiaomi)
+![HarmonyOS Badge](https://img.shields.io/badge/HarmonyOS-000?logo=harmonyos&logoColor=fff&style=for-the-badge)
+
+---
 
 
 
