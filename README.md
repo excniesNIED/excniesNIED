@@ -26,17 +26,17 @@ You can also call me excnies.
 ![deepin Badge](https://img.shields.io/badge/deepin-007CFF?logo=deepin&logoColor=fff&style=for-the-badge)
 ![KDE Badge](https://img.shields.io/badge/KDE-1D99F3?logo=kde&logoColor=fff&style=for-the-badge)
 ![GNOME Badge](https://img.shields.io/badge/GNOME-4A86CF?logo=gnome&logoColor=fff&style=for-the-badge)
-![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-EF3939?logo=vivaldi&logoColor=fff&style=plastic)
-![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=plastic)
+![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-EF3939?logo=vivaldi&logoColor=fff&style=for-the-badge)
+![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge)
 
 ---
 
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=plastic)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=plastic)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)
-![CLion Badge](https://img.shields.io/badge/CLion-000?logo=clion&logoColor=fff&style=plastic)
-![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=plastic)
-![Anaconda Badge](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff&style=plastic)
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![CLion Badge](https://img.shields.io/badge/CLion-000?logo=clion&logoColor=fff&style=for-the-badge)
+![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=for-the-badge)
+![Anaconda Badge](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff&style=for-the-badge)
 
 ---
 
