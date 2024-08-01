@@ -45,11 +45,11 @@ You can also call me excnies.
 
 ---
 
-![excniesNIED's Stats](https://github-stat.hx-cn.top/api?username=excniesNIED&theme=Default&show_icons=true&hide_border=false&count_private=true)
+![excniesNIED's Stats](https://github-stat.hx-cn.top/api?username=excniesNIED&theme=Default&show_icons=true&hide_border=false&count_private=true&card_width=450)
 
-[![GitHub Streak](https://github-streak-stat.hx-cn.top?user=excniesNIED&theme=transparent&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-streak-stat.hx-cn.top?user=excniesNIED&theme=transparent&hide_border=false&card_width=450)](https://git.io/streak-stats)
 
-![excniesNIED's Top Languages](https://github-stat.hx-cn.top/api/top-langs/?username=excniesNIED&theme=Default&show_icons=true&hide_border=false&layout=compact)
+![excniesNIED's Top Languages](https://github-stat.hx-cn.top/api/top-langs/?username=excniesNIED&theme=Default&show_icons=true&hide_border=false&layout=compact&card_width=450)
 
 <!--
 **excniesNIED/excniesNIED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
