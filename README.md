@@ -16,6 +16,8 @@ You can also call me excnies.
 
 ---
 
+## Equipments
+
 ![Static Badge](https://img.shields.io/badge/HUAWEI-P60-HarmonyOS?style=for-the-badge&color=%23007DFE&logo=huawei)
 ![Static Badge](https://img.shields.io/badge/HUAWEI-Matepad_10.4_2020-HarmonyOS?style=for-the-badge&color=%23007DFE&logo=huawei)
 ![Static Badge](https://img.shields.io/badge/Xiaomi-MIX2s-FlymeOS?style=for-the-badge&color=%23FF6900&logo=xiaomi)
@@ -31,17 +33,20 @@ You can also call me excnies.
 ![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-EF3939?logo=vivaldi&logoColor=fff&style=for-the-badge)
 ![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge)
 ![JetBrains Badge](https://img.shields.io/badge/JetBrains-000?logo=jetbrains&logoColor=fff&style=for-the-badge)
-
----
-
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![CLion Badge](https://img.shields.io/badge/CLion-000?logo=clion&logoColor=fff&labelColor=blue&style=for-the-badge)
 ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&labelColor=purple&style=for-the-badge)
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green&style=for-the-badge)
 ![Anaconda Badge](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff&style=for-the-badge)
 ![VSCodium Badge](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff&style=for-the-badge)
+
+---
+
+## Skills
+
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+
 
 ---
 
