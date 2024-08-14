@@ -21,15 +21,18 @@ You can also call me excnies.
 ![Static Badge](https://img.shields.io/badge/Xiaomi-MIX2s-FlymeOS?style=for-the-badge&color=%23FF6900&logo=xiaomi)
 ![Static Badge](https://img.shields.io/badge/ASUS-TUF_Gaming_F15-Windows?style=for-the-badge&color=%230DE4CD&logo=asus)
 ![Static Badge](https://img.shields.io/badge/Redmi-Buds_6_Lite-Lite?style=for-the-badge&color=%23FF6900&logo=xiaomi)
+
 ![HarmonyOS Badge](https://img.shields.io/badge/Harmony_OS-000?logo=harmonyos&logoColor=fff&style=for-the-badge)
 ![Manjaro Badge](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=fff&style=for-the-badge)
 ![Windows11](https://img.shields.io/badge/Windows%2011-0079D5?style=for-the-badge&logo=windows&logoColor=%230079D)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)
 ![deepin Badge](https://img.shields.io/badge/deepin-007CFF?logo=deepin&logoColor=fff&style=for-the-badge)
+
 ![KDE Badge](https://img.shields.io/badge/KDE-1D99F3?logo=kde&logoColor=fff&style=for-the-badge)
 ![GNOME Badge](https://img.shields.io/badge/GNOME-4A86CF?logo=gnome&logoColor=fff&style=for-the-badge)
 ![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-EF3939?logo=vivaldi&logoColor=fff&style=for-the-badge)
 ![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge)
+
 ![JetBrains Badge](https://img.shields.io/badge/JetBrains-000?logo=jetbrains&logoColor=fff&style=for-the-badge)
 ![CLion Badge](https://img.shields.io/badge/CLion-000?logo=clion&logoColor=fff&labelColor=blue&style=for-the-badge)
 ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&labelColor=purple&style=for-the-badge)
