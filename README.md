@@ -29,7 +29,6 @@ You can also call me excnies.
 ![deepin Badge](https://img.shields.io/badge/deepin-007CFF?logo=deepin&logoColor=fff&style=for-the-badge)
 
 ![KDE Badge](https://img.shields.io/badge/KDE-1D99F3?logo=kde&logoColor=fff&style=for-the-badge)
-![GNOME Badge](https://img.shields.io/badge/GNOME-4A86CF?logo=gnome&logoColor=fff&style=for-the-badge)
 ![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-EF3939?logo=vivaldi&logoColor=fff&style=for-the-badge)
 ![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge)
 
