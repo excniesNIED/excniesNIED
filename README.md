@@ -1,5 +1,4 @@
-<center>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=200&size=33&pause=2000&color=000000&center=true&vCenter=true&multiline=true&width=435&lines=Hi+here%2C+I'm+Churnie+HXCN.;You+can+alos+call+me+excnies.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=200&size=33&pause=2000&color=000000&center=true&vCenter=true&multiline=true&width=435&lines=Hi+here%2C+I'm+Churnie+HXCN.;You+can+alos+call+me+excnies.)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fhxcn.qcea.top&up_message=hxcn.qcea.top&up_color=%2368BDDF&down_message=Home%20Page&down_color=%2358E2D8&style=for-the-badge&label=Home%20Page&logo=houzz)](https://hxcn.qcea.top)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fhx-cn.top&up_message=hx-cn.top&up_color=%2358E2D8&down_message=Blog&down_color=%2358E2D8&style=for-the-badge&label=Blog)](https://hx-cn.top)
@@ -55,7 +54,6 @@
 
 ![excniesNIED's Top Languages](https://github-stat.hx-cn.top/api/top-langs/?username=excniesNIED&theme=Default&show_icons=true&hide_border=false&layout=compact&card_width=450)
 
-</center>
 <!--
 **excniesNIED/excniesNIED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
