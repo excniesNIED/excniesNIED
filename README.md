@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=200&size=33&pause=2000&color=000000&center=true&vCenter=true&multiline=true&width=435&lines=Hi+here%2C+I'm+Churnie+HXCN.;You+can+alos+call+me+excnies.)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fhxcn.qcea.top&up_message=hxcn.cnies.org&up_color=%2368BDDF&down_message=Home%20Page&down_color=%2358E2D8&style=for-the-badge&label=Home%20Page&logo=houzz)](https://hxcn.cnies.org)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fhs.cnies.org&up_message=hs.cnies.org&up_color=%2358E2D8&down_message=hs.cnies.org&down_color=%2358E2D8&style=for-the-badge&label=Blog)](https://hx-cn.top)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fenotes.hx-cn.top&up_message=enotes.hx-cn.top&up_color=%2314C3F3&down_message=Notes&down_color=%2358E2D8&style=for-the-badge&label=Notes&logo=gitbook)](https://enotes.hx-cn.top)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fhs.cnies.org&up_message=hs.cnies.org&up_color=%2358E2D8&down_message=hs.cnies.org&down_color=%2358E2D8&style=for-the-badge&label=Blog)](https://hs.cnies.org)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fenotes.cnies.org&up_message=enotes.cnies.org&up_color=%2314C3F3&down_message=Notes&down_color=%2358E2D8&style=for-the-badge&label=Notes&logo=gitbook)](https://enotes.cnies.org)
 
 
 ## Social&Contact
@@ -50,11 +50,11 @@
 
 ---
 
-![excniesNIED's Stats](https://github-stat.hx-cn.top/api?username=excniesNIED&theme=Default&show_icons=true&hide_border=false&count_private=true&card_width=450)
+![excniesNIED's Stats](https://github-stat.cnies.org/api?username=excniesNIED&theme=Default&show_icons=true&hide_border=false&count_private=true&card_width=450)
 
-[![GitHub Streak](https://github-streak-stat.hx-cn.top?user=excniesNIED&theme=transparent&hide_border=false&card_width=450)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-streak-stat.cnies.org?user=excniesNIED&theme=transparent&hide_border=false&card_width=450)](https://git.io/streak-stats)
 
-![excniesNIED's Top Languages](https://github-stat.hx-cn.top/api/top-langs/?username=excniesNIED&theme=Default&show_icons=true&hide_border=false&layout=compact&card_width=450)
+![excniesNIED's Top Languages](https://github-stat.cnies.org/api/top-langs/?username=excniesNIED&theme=Default&show_icons=true&hide_border=false&layout=compact&card_width=450)
 
 <!--
 **excniesNIED/excniesNIED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
