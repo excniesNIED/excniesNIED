@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=200&size=33&pause=2000&color=000000&center=true&vCenter=true&multiline=true&width=435&lines=Hi+here%2C+I'm+Churnie+HXCN.;You+can+alos+call+me+excnies.)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fhxcn.cnies.org&up_message=hxcn.cnies.org&up_color=%2368BDDF&down_message=Home%20Page&down_color=%2358E2D8&style=for-the-badge&label=Home%20Page&logo=houzz)](https://hxcn.cnies.org)
+[![Home Page](https://img.shields.io/badge/hxcn.cnies.org-%230DE4CD?style=for-the-badge&logoColor=white)](https://hxcn.cnies.org)
+
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fhs.cnies.org&up_message=hs.cnies.org&up_color=%2358E2D8&down_message=hs.cnies.org&down_color=%230DE4CD&style=for-the-badge&label=Blog)](https://hs.cnies.org)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fenotes.cnies.org&up_message=enotes.cnies.org&up_color=%2314C3F3&down_message=enotes.cnies.org&down_color=%2358E2D8&style=for-the-badge&label=Notes&logo=gitbook)](https://enotes.cnies.org)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fenotes.cnies.org&up_message=enotes.cnies.org&up_color=%2314C3F3&down_message=enotes.cnies.org&down_color=%230DE4CD&style=for-the-badge&label=Notes)](https://enotes.cnies.org)
 
 
 ## Social&Contact
