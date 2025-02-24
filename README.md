@@ -1,14 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arsenal+SC&duration=4999&pause=1000&color=696969&width=435&lines=Hi+here%2C+I'm+Churnie+HXCN.)](https://git.io/typing-svg)
-[![Home Page](https://img.shields.io/website?url=https%3A%2F%2Fhxcn.cnies.org&up_message=hxnc.cnies.org&up_color=%230DE4CD&down_message=hxcn.cnies.org&down_color=%230DE4CD&style=for-the-badge&label=HOME PAGE)](https://hxcn.cnies.org)[![Website](https://img.shields.io/website?url=https%3A%2F%2Fhs.cnies.org&up_message=hs.cnies.org&up_color=%2358E2D8&down_message=hs.cnies.org&down_color=%230DE4CD&style=for-the-badge&label=Blog)](https://hs.cnies.org)
+<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arsenal+SC&amp;duration=4999&amp;pause=1000&amp;color=696969&amp;width=435&amp;lines=Hi+here%2C+I'm+Churnie+HXCN." alt="Typing SVG"></a></p>
+<p><a href="https://hxcn.cnies.org"><img src="https://img.shields.io/website?url=https%3A%2F%2Fhxcn.cnies.org&amp;up_message=hxnc.cnies.org&amp;up_color=%230DE4CD&amp;down_message=hxcn.cnies.org&amp;down_color=%230DE4CD&amp;style=for-the-badge&amp;label=HOME  alt="PAGE"></a><a href="https://hs.cnies.org"><img src="https://img.shields.io/website?url=https%3A%2F%2Fhs.cnies.org&amp;up_message=hs.cnies.org&amp;up_color=%2358E2D8&amp;down_message=hs.cnies.org&amp;down_color=%230DE4CD&amp;style=for-the-badge&amp;label=Blog" alt="Website"></a></p>
 
 ---
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FexcniesNIED&labelColor=grey&up_message=excniesNIED&style=for-the-badge&label=Github&logo=github)](https://github.com/excniesNIED)[![Website](https://img.shields.io/website?url=https%3A%2F%2Fcodeberg.org%2Fexcnies&labelColor=grey&up_message=excnies&style=for-the-badge&label=Codeberg&logo=codeberg)](https://github.com/excniesNIED)[![Website](https://img.shields.io/website?url=https%3A%2F%2Fhuggingface.co%2Fexcnies&up_message=excnies&style=for-the-badge&label=HuggingFace&logo=HuggingFace)](https://huggingface.co/excnies)[![Website](https://img.shields.io/website?url=https%3A%2F%2Fspace.bilibili.com%2F3494377156511978&up_message=%E8%90%91%E6%BE%88&style=for-the-badge&label=Bilibili&logo=bilibili)](https://space.bilibili.com/3494377156511978)[![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FexcniesNIED&up_message=hxcn%40cnies.org&style=for-the-badge&label=Mail&logo=mail.ru)](mailto:hxcn@cnies.org)
+<p><a href="https://github.com/excniesNIED"><img src="https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FexcniesNIED&amp;labelColor=grey&amp;up_message=excniesNIED&amp;style=for-the-badge&amp;label=Github&amp;logo=github" alt="Website"></a>
+<a href="https://github.com/excniesNIED"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcodeberg.org%2Fexcnies&amp;labelColor=grey&amp;up_message=excnies&amp;style=for-the-badge&amp;label=Codeberg&amp;logo=codeberg" alt="Website"></a>
+<a href="https://huggingface.co/excnies"><img src="https://img.shields.io/website?url=https%3A%2F%2Fhuggingface.co%2Fexcnies&amp;up_message=excnies&amp;style=for-the-badge&amp;label=HuggingFace&amp;logo=HuggingFace" alt="Website"></a>
+<a href="https://space.bilibili.com/3494377156511978"><img src="https://img.shields.io/website?url=https%3A%2F%2Fspace.bilibili.com%2F3494377156511978&amp;up_message=%E8%90%91%E6%BE%88&amp;style=for-the-badge&amp;label=Bilibili&amp;logo=bilibili" alt="Website"></a>
+<a href="mailto:hxcn@cnies.org"><img src="https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FexcniesNIED&amp;up_message=hxcn%40cnies.org&amp;style=for-the-badge&amp;label=Mail&amp;logo=mail.ru" alt="Website"></a></p>
 
 ---
 ## Teams and Organizations
 
-<img src="./assets/sdnu-nao211.png" width="90" height="90" alt="SDNU Robotics AI Lab"><img src="./assets/FOSScope900.png" width="90" height="90" alt="FOSScope"><img src="./assets/sdnukjxh.png" width="90" height="90" alt="SDNUkjxh">
+<img src="./assets/sdnu-nao211.png" width="60" height="60" alt="SDNU Robotics AI Lab"><img src="./assets/FOSScope900.png" width="60" height="60" alt="FOSScope"><img src="./assets/sdnukjxh.png" width="60" height="60" alt="SDNUkjxh">
 
 ---
 
