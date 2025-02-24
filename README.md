@@ -1,28 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arsenal+SC&duration=4999&pause=1000&color=696969&width=435&lines=Hi+here%2C+I'm+Churnie+HXCN.)](https://git.io/typing-svg)
-[![Home Page](https://img.shields.io/website?url=https%3A%2F%2Fhxcn.cnies.org&up_message=hxnc.cnies.org&up_color=%230DE4CD&down_message=hxcn.cnies.org&down_color=%230DE4CD&style=for-the-badge&label=HOME PAGE)](https://hxcn.cnies.org)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fhs.cnies.org&up_message=hs.cnies.org&up_color=%2358E2D8&down_message=hs.cnies.org&down_color=%230DE4CD&style=for-the-badge&label=Blog)](https://hs.cnies.org)
+[![Home Page](https://img.shields.io/website?url=https%3A%2F%2Fhxcn.cnies.org&up_message=hxnc.cnies.org&up_color=%230DE4CD&down_message=hxcn.cnies.org&down_color=%230DE4CD&style=for-the-badge&label=HOME PAGE)](https://hxcn.cnies.org)[![Website](https://img.shields.io/website?url=https%3A%2F%2Fhs.cnies.org&up_message=hs.cnies.org&up_color=%2358E2D8&down_message=hs.cnies.org&down_color=%230DE4CD&style=for-the-badge&label=Blog)](https://hs.cnies.org)
 
 ---
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FexcniesNIED&labelColor=grey&up_message=excniesNIED&style=for-the-badge&label=Github&logo=github)](https://github.com/excniesNIED)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fhuggingface.co%2Fexcnies&up_message=excnies&style=for-the-badge&label=HuggingFace&logo=HuggingFace)](https://huggingface.co/excnies)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fspace.bilibili.com%2F3494377156511978&up_message=%E8%90%91%E6%BE%88&style=for-the-badge&label=Bilibili&logo=bilibili)](https://space.bilibili.com/3494377156511978)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FexcniesNIED&up_message=hxcn%40cnies.org&style=for-the-badge&label=Mail&logo=mail.ru)](mailto:hxcn@cnies.org)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FexcniesNIED&labelColor=grey&up_message=excniesNIED&style=for-the-badge&label=Github&logo=github)](https://github.com/excniesNIED)[![Website](https://img.shields.io/website?url=https%3A%2F%2Fcodeberg.org%2Fexcnies&labelColor=grey&up_message=excnies&style=for-the-badge&label=Codeberg&logo=codeberg)](https://github.com/excniesNIED)[![Website](https://img.shields.io/website?url=https%3A%2F%2Fhuggingface.co%2Fexcnies&up_message=excnies&style=for-the-badge&label=HuggingFace&logo=HuggingFace)](https://huggingface.co/excnies)[![Website](https://img.shields.io/website?url=https%3A%2F%2Fspace.bilibili.com%2F3494377156511978&up_message=%E8%90%91%E6%BE%88&style=for-the-badge&label=Bilibili&logo=bilibili)](https://space.bilibili.com/3494377156511978)[![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FexcniesNIED&up_message=hxcn%40cnies.org&style=for-the-badge&label=Mail&logo=mail.ru)](mailto:hxcn@cnies.org)
 
 ---
 ## Teams and Organizations
 
-
+<img src="./assets/sdnu-nao211.png" width="90" height="90" alt="SDNU Robotics AI Lab"><img src="./assets/FOSScope900.png" width="90" height="90" alt="FOSScope"><img src="./assets/sdnukjxh.png" width="90" height="90" alt="SDNUkjxh">
 
 ---
 
-## Devices and Tools
-
-![Static Badge](https://img.shields.io/badge/HUAWEI-P60-HarmonyOS?style=for-the-badge&color=%23007DFE&logo=huawei)
-![Static Badge](https://img.shields.io/badge/HUAWEI-Matepad_10.4_2020-HarmonyOS?style=for-the-badge&color=%23007DFE&logo=huawei)
-![Static Badge](https://img.shields.io/badge/Xiaomi-MIX2s-FlymeOS?style=for-the-badge&color=%23FF6900&logo=xiaomi)
-![Static Badge](https://img.shields.io/badge/ASUS-TUF_Gaming_F15-Windows?style=for-the-badge&color=%230DE4CD&logo=asus)
-![Static Badge](https://img.shields.io/badge/Redmi-Buds_6_Lite-Lite?style=for-the-badge&color=%23FF6900&logo=xiaomi)
+## Equipments and Tools
 
 ![HarmonyOS Badge](https://img.shields.io/badge/Harmony_OS-000?logo=harmonyos&logoColor=fff&style=for-the-badge)
 ![Manjaro Badge](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=fff&style=for-the-badge)
