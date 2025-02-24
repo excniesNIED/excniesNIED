@@ -1,18 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=150&size=33&pause=2000&color=000000&center=true&vCenter=true&multiline=true&width=435&lines=Hi+here%2C+I'm+Churnie+HXCN.;You+can+alos+call+me+excnies.)](https://git.io/typing-svg)
-
-[![Home Page](https://img.shields.io/badge/hxcn.cnies.org-%230DE4CD?style=for-the-badge&logoColor=white)](https://hxcn.cnies.org)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arsenal+SC&duration=4999&pause=1000&color=696969&width=435&lines=Hi+here%2C+I'm+Churnie+HXCN.)](https://git.io/typing-svg)
+[![Home Page](https://img.shields.io/website?url=https%3A%2F%2Fhxcn.cnies.org&up_message=hxnc.cnies.org&up_color=%230DE4CD&down_message=hxcn.cnies.org&down_color=%230DE4CD&style=for-the-badge&label=HOME PAGE)](https://hxcn.cnies.org)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fhs.cnies.org&up_message=hs.cnies.org&up_color=%2358E2D8&down_message=hs.cnies.org&down_color=%230DE4CD&style=for-the-badge&label=Blog)](https://hs.cnies.org)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fenotes.cnies.org&up_message=enotes.cnies.org&up_color=%2314C3F3&down_message=enotes.cnies.org&down_color=%230DE4CD&style=for-the-badge&label=Notes)](https://enotes.cnies.org)
 
-
-## Social&Contact
+---
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FexcniesNIED&labelColor=grey&up_message=excniesNIED&style=for-the-badge&label=Github&logo=github)](https://github.com/excniesNIED)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fhuggingface.co%2Fexcnies&up_message=excnies&style=for-the-badge&label=HuggingFace&logo=HuggingFace)](https://huggingface.co/excnies)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fspace.bilibili.com%2F520945083&up_message=%E8%90%91%E6%BE%88&style=for-the-badge&label=Bilibili&logo=bilibili)](https://space.bilibili.com/520945083)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fspace.bilibili.com%2F3494377156511978&up_message=%E8%90%91%E6%BE%88&style=for-the-badge&label=Bilibili&logo=bilibili)](https://space.bilibili.com/3494377156511978)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FexcniesNIED&up_message=hxcn%40cnies.org&style=for-the-badge&label=Mail&logo=mail.ru)](mailto:hxcn@cnies.org)
 
 ---
+## Teams and Organizations
+
+
+
+---
+
 ## Devices and Tools
 
 ![Static Badge](https://img.shields.io/badge/HUAWEI-P60-HarmonyOS?style=for-the-badge&color=%23007DFE&logo=huawei)
@@ -56,18 +59,3 @@
 [![GitHub Streak](https://github-streak-stat.cnies.org?user=excniesNIED&theme=transparent&hide_border=false&card_width=450)](https://git.io/streak-stats)
 
 ![excniesNIED's Top Languages](https://github-stat.cnies.org/api/top-langs/?username=excniesNIED&theme=Default&show_icons=true&hide_border=false&layout=compact&card_width=450)
-
-<!--
-**excniesNIED/excniesNIED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
