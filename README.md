@@ -1,5 +1,6 @@
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arsenal+SC&amp;duration=4999&amp;pause=1000&amp;color=696969&amp;width=435&amp;lines=Hi+here%2C+I'm+Churnie+HXCN." alt="Typing SVG"></a></p>
-<p><a href="https://hxcn.cnies.org"><img src="https://img.shields.io/website?url=https%3A%2F%2Fhxcn.cnies.org&amp;up_message=hxnc.cnies.org&amp;up_color=%230DE4CD&amp;down_message=hxcn.cnies.org&amp;down_color=%230DE4CD&amp;style=for-the-badge&amp;label=HOME  alt="PAGE"></a><a href="https://hs.cnies.org"><img src="https://img.shields.io/website?url=https%3A%2F%2Fhs.cnies.org&amp;up_message=hs.cnies.org&amp;up_color=%2358E2D8&amp;down_message=hs.cnies.org&amp;down_color=%230DE4CD&amp;style=for-the-badge&amp;label=Blog" alt="Website"></a></p>
+<p><a href="https://hxcn.cnies.org"><img src="https://img.shields.io/website?url=https%3A%2F%2Fhxcn.cnies.org&amp;up_message=hxnc.cnies.org&amp;up_color=%230DE4CD&amp;down_message=hxcn.cnies.org&amp;down_color=%230DE4CD&amp;style=for-the-badge&amp;label=HOME  alt="PAGE"></a>
+<a href="https://hs.cnies.org"><img src="https://img.shields.io/website?url=https%3A%2F%2Fhs.cnies.org&amp;up_message=hs.cnies.org&amp;up_color=%2358E2D8&amp;down_message=hs.cnies.org&amp;down_color=%230DE4CD&amp;style=for-the-badge&amp;label=Blog" alt="Website"></a></p>
 
 ---
 
