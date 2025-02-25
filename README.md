@@ -5,7 +5,7 @@
 <hr>
 
 <p><a href="https://github.com/excniesNIED"><img src="https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FexcniesNIED&amp;labelColor=grey&amp;up_message=excniesNIED&amp;style=for-the-badge&amp;label=Github&amp;logo=github" alt="Website"></a>
-<a href="https://github.com/excniesNIED"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcodeberg.org%2Fexcnies&amp;labelColor=grey&amp;up_message=excnies&amp;style=for-the-badge&amp;label=Codeberg&amp;logo=codeberg" alt="Website"></a>
+<a href="https://codeberg.org/excnies"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcodeberg.org%2Fexcnies&amp;labelColor=grey&amp;up_message=excnies&amp;style=for-the-badge&amp;label=Codeberg&amp;logo=codeberg" alt="Website"></a>
 <a href="https://huggingface.co/excnies"><img src="https://img.shields.io/website?url=https%3A%2F%2Fhuggingface.co%2Fexcnies&amp;up_message=excnies&amp;style=for-the-badge&amp;label=HuggingFace&amp;logo=HuggingFace" alt="Website"></a>
 <a href="https://space.bilibili.com/3494377156511978"><img src="https://img.shields.io/website?url=https%3A%2F%2Fspace.bilibili.com%2F3494377156511978&amp;up_message=%E8%90%91%E6%BE%88&amp;style=for-the-badge&amp;label=Bilibili&amp;logo=bilibili" alt="Website"></a>
 <a href="mailto:hxcn@cnies.org"><img src="https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FexcniesNIED&amp;up_message=hxcn%40cnies.org&amp;style=for-the-badge&amp;label=Mail&amp;logo=mail.ru" alt="Website"></a></p>
