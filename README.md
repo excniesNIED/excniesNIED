@@ -2,7 +2,7 @@
 <p><a href="https://hxcn.cnies.org"><img src="https://img.shields.io/website?url=https%3A%2F%2Fhxcn.cnies.org&amp;up_message=hxnc.cnies.org&amp;up_color=%230DE4CD&amp;down_message=hxcn.cnies.org&amp;down_color=%230DE4CD&amp;style=for-the-badge&amp;label=HOME  alt="PAGE"></a>
 <a href="https://hs.cnies.org"><img src="https://img.shields.io/website?url=https%3A%2F%2Fhs.cnies.org&amp;up_message=hs.cnies.org&amp;up_color=%2358E2D8&amp;down_message=hs.cnies.org&amp;down_color=%230DE4CD&amp;style=for-the-badge&amp;label=Blog" alt="Website"></a></p>
 
----
+<hr>
 
 <p><a href="https://github.com/excniesNIED"><img src="https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FexcniesNIED&amp;labelColor=grey&amp;up_message=excniesNIED&amp;style=for-the-badge&amp;label=Github&amp;logo=github" alt="Website"></a>
 <a href="https://github.com/excniesNIED"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcodeberg.org%2Fexcnies&amp;labelColor=grey&amp;up_message=excnies&amp;style=for-the-badge&amp;label=Codeberg&amp;logo=codeberg" alt="Website"></a>
@@ -10,47 +10,54 @@
 <a href="https://space.bilibili.com/3494377156511978"><img src="https://img.shields.io/website?url=https%3A%2F%2Fspace.bilibili.com%2F3494377156511978&amp;up_message=%E8%90%91%E6%BE%88&amp;style=for-the-badge&amp;label=Bilibili&amp;logo=bilibili" alt="Website"></a>
 <a href="mailto:hxcn@cnies.org"><img src="https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FexcniesNIED&amp;up_message=hxcn%40cnies.org&amp;style=for-the-badge&amp;label=Mail&amp;logo=mail.ru" alt="Website"></a></p>
 
----
-## Teams and Organizations
-
+<hr>
+<h2>Teams and Organizations</h2>
 <img src="./assets/sdnu-nao211.png" width="60" height="60" alt="SDNU Robotics AI Lab"><img src="./assets/FOSScope900.png" width="60" height="60" alt="FOSScope"><img src="./assets/sdnukjxh.png" width="60" height="60" alt="SDNUkjxh">
 
----
+<hr>
 
-## Equipments and Tools
+<h2>Equipments and Tools</h2>
 
-![HarmonyOS Badge](https://img.shields.io/badge/Harmony_OS-000?logo=harmonyos&logoColor=fff&style=for-the-badge)
-![Manjaro Badge](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=fff&style=for-the-badge)
-![Windows11](https://img.shields.io/badge/Windows%2011-0079D5?style=for-the-badge&logo=windows&logoColor=%230079D)
-![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)
-![deepin Badge](https://img.shields.io/badge/deepin-007CFF?logo=deepin&logoColor=fff&style=for-the-badge)
+<p><img src="https://img.shields.io/badge/Harmony_OS-000?logo=harmonyos&amp;logoColor=fff&amp;style=for-the-badge" alt="HarmonyOS Badge">
+<img src="https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&amp;logoColor=fff&amp;style=for-the-badge" alt="Manjaro Badge">
+<img src="https://img.shields.io/badge/Windows%2011-0079D5?style=for-the-badge&amp;logo=windows&amp;logoColor=%230079D" alt="Windows11">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&amp;logoColor=fff&amp;style=for-the-badge" alt="Ubuntu Badge">
+<img src="https://img.shields.io/badge/deepin-007CFF?logo=deepin&amp;logoColor=fff&amp;style=for-the-badge" alt="deepin Badge"></p>
+<p><img src="https://img.shields.io/badge/KDE-1D99F3?logo=kde&amp;logoColor=fff&amp;style=for-the-badge" alt="KDE Badge">
+<img src="https://img.shields.io/badge/Vivaldi-EF3939?logo=vivaldi&amp;logoColor=fff&amp;style=for-the-badge" alt="Vivaldi Badge">
+<img src="https://img.shields.io/badge/Notion-000?logo=notion&amp;logoColor=fff&amp;style=for-the-badge" alt="Notion Badge">
+<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&amp;logo=steam&amp;logoColor=white" alt="Steam">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma"></p>
+<p><img src="https://img.shields.io/badge/JetBrains-000?logo=jetbrains&amp;logoColor=fff&amp;style=for-the-badge" alt="JetBrains Badge">
+<img src="https://img.shields.io/badge/CLion-000?logo=clion&amp;logoColor=fff&amp;labelColor=blue&amp;style=for-the-badge" alt="CLion Badge">
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&amp;logoColor=fff&amp;labelColor=purple&amp;style=for-the-badge" alt="IntelliJ IDEA Badge">
+<img src="https://img.shields.io/badge/PyCharm-143?logo=pycharm&amp;logoColor=black&amp;color=black&amp;labelColor=green&amp;style=for-the-badge" alt="PyCharm">
+<img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&amp;logoColor=fff&amp;style=for-the-badge" alt="Anaconda Badge">
+<img src="https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&amp;logoColor=fff&amp;style=for-the-badge" alt="VSCodium Badge">
+<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&amp;logo=powershell&amp;logoColor=white" alt="PowerShell">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"></p>
+<p><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=Cloudflare&amp;logoColor=white" alt="Cloudflare">
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=#00C7B7" alt="Netlify">
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel"></p>
 
-![KDE Badge](https://img.shields.io/badge/KDE-1D99F3?logo=kde&logoColor=fff&style=for-the-badge)
-![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-EF3939?logo=vivaldi&logoColor=fff&style=for-the-badge)
-![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge)
+<hr>
 
-![JetBrains Badge](https://img.shields.io/badge/JetBrains-000?logo=jetbrains&logoColor=fff&style=for-the-badge)
-![CLion Badge](https://img.shields.io/badge/CLion-000?logo=clion&logoColor=fff&labelColor=blue&style=for-the-badge)
-![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&labelColor=purple&style=for-the-badge)
-![PyCharm](https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green&style=for-the-badge)
-![Anaconda Badge](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff&style=for-the-badge)
-![VSCodium Badge](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff&style=for-the-badge)
+<h2>Tech Stack</h2>
 
----
+<p><img src="https://img.shields.io/badge/C-A8B9CC?logo=c&amp;logoColor=fff&amp;style=for-the-badge" alt="C Badge">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&amp;logoColor=fff&amp;style=for-the-badge" alt="C++ Badge">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=fff&amp;style=for-the-badge" alt="Python Badge">
+<img src="https://img.shields.io/badge/Rust-000?logo=rust&amp;logoColor=fff&amp;style=for-the-badge" alt="Rust Badge">
+<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&amp;logoColor=fff&amp;style=for-the-badge" alt="Go Badge">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&amp;logo=Qt&amp;logoColor=white" alt="Qt">
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite">
+<img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=%234FC08D" alt="Vue.js"></p>
 
-## Skills
+<hr>
 
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
-![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
-
-
----
-
-![excniesNIED's Stats](https://github-stat.cnies.org/api?username=excniesNIED&theme=Default&show_icons=true&hide_border=false&count_private=true&card_width=450)
-
-[![GitHub Streak](https://github-streak-stat.cnies.org?user=excniesNIED&theme=transparent&hide_border=false&card_width=450)](https://git.io/streak-stats)
-
-![excniesNIED's Top Languages](https://github-stat.cnies.org/api/top-langs/?username=excniesNIED&theme=Default&show_icons=true&hide_border=false&layout=compact&card_width=450)
+<p><img src="https://github-stat.cnies.org/api?username=excniesNIED&amp;theme=Default&amp;show_icons=true&amp;hide_border=false&amp;count_private=true&amp;card_width=450" alt="excniesNIED's Stats"></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-streak-stat.cnies.org?user=excniesNIED&amp;theme=transparent&amp;hide_border=false&amp;card_width=450" alt="GitHub Streak"></a></p>
+<p><img src="https://github-stat.cnies.org/api/top-langs/?username=excniesNIED&amp;theme=Default&amp;show_icons=true&amp;hide_border=false&amp;layout=compact&amp;card_width=450" alt="excniesNIED's Top Languages"></p>
