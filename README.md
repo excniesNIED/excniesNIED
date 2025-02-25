@@ -13,7 +13,10 @@
 <hr>
 <h2>Teams and Organizations</h2>
 <p>
-<img src="./assets/sdnu-nao211.png" width="60" height="60" alt="SDNU Robotics AI Lab"><img src="./assets/FOSScope900.png" width="60" height="60" alt="FOSScope"><img src="./assets/sdnukjxh.png" width="60" height="60" alt="SDNUkjxh"></p>
+<a href="https://sdnuroboticsailab.github.io"><img src="./assets/sdnu-nao211.png" width="60" height="60" alt="SDNU Robotics AI Lab"></a>
+<a href="https://fosscope.com"><img src="./assets/FOSScope900.png" width="60" height="60" alt="FOSScope"></a>
+<a href="https://sdnukjxh.space"><img src="./assets/sdnukjxh.png" width="60" height="60" alt="SDNUkjxh"></a>
+</p>
 
 <hr>
 
