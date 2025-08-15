@@ -2,7 +2,7 @@
 <p><a href="https://hxcn.cnies.org"><img src="https://img.shields.io/website?url=https%3A%2F%2Fhxcn.cnies.org&amp;up_message=hxnc.cnies.org&amp;up_color=%230DE4CD&amp;down_message=hxcn.cnies.org&amp;down_color=%230DE4CD&amp;style=for-the-badge&amp;label=HOME"></a>
 <a href="https://hs.cnies.org"><img src="https://img.shields.io/website?url=https%3A%2F%2Fhs.cnies.org&amp;up_message=hs.cnies.org&amp;up_color=%2358E2D8&amp;down_message=hs.cnies.org&amp;down_color=%230DE4CD&amp;style=for-the-badge&amp;label=Blog" alt="Website"></a></p>
 
-<hr>
+<hr> 
 
 <p><a href="https://github.com/excniesNIED"><img src="https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FexcniesNIED&amp;labelColor=grey&amp;up_message=excniesNIED&amp;style=for-the-badge&amp;label=Github&amp;logo=github" alt="Website"></a>
 <a href="https://codeberg.org/excnies"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcodeberg.org%2Fexcnies&amp;labelColor=grey&amp;up_message=excnies&amp;style=for-the-badge&amp;label=Codeberg&amp;logo=codeberg" alt="Website"></a>
